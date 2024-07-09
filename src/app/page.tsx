@@ -56,7 +56,7 @@ function Features() {
 
 function DateLabel() {
   return (
-    <div className="absolute right-4 top-[38rem] md:top-[24rem] text-6xl font-mono text-accent tracking-wider md:[writing-mode:vertical-lr] h-96">
+    <div className="absolute right-4 top-[42rem] md:top-[24rem] text-6xl font-mono text-accent tracking-wider md:[writing-mode:vertical-lr] h-96">
       3 agosto 2024
     </div>
   );
